@@ -340,6 +340,10 @@ section.quote .layar-dalam p {
     text-align: center;
 }
 
+.peta img {
+    width: 800px;
+}
+
 footer {
     padding: 50px 0px 50px 0px;
     background-color: #343a40;
@@ -459,5 +463,9 @@ footer iframe {
         justify-content: center;
         align-items: center;
         text-align: center;
+    }
+
+    .peta img {
+        width: 350px;
     }
 }
